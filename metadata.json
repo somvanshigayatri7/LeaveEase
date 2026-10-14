@@ -1,0 +1,6 @@
+{
+  "name": "LeaveEase - AI Leave Application & Policy Guide",
+  "description": "Intelligent Leave Application Guide AI Agent to navigate company policies, calculate working days, draft compliant leave requests, and audit approval readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
